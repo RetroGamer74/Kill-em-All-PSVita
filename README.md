@@ -28,7 +28,7 @@ So for your help here is the layout you can use if you decide to play using your
 
 And this is the layout if you decide to use Vita sticks and buttons.
 
-![VitaControls](layout-completo.jpg)
+![VitaControls](TouchControls_V2.jpg)
 
 You can also playing combining controls. So touch for Aiming, and Zoom and Fire using Vita buttons. Choose the best one for you.
 
