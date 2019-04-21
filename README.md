@@ -40,7 +40,7 @@ Even the translations are provided by using Google Translator, I can say there a
 
 1º. In the first screen and for the first time you will be asked for your name to play. The suggested name is 'player'. You can not change it. Just press OK and go on. This issue is because there was no possible for me to provide an API call to show the native keyboard. I will do it developing a plugin for Unity, but it looks there is no native support in Unity so, sorry that feature is not enabled by the way.
 
-2º. Even I did my best to try to finish the game at time, there was not too much time for the VitaJam2019, and even I don't own a PSVita DevKit, so sometimes memory leaks are very difficult to identify when they only happens in PSVita and not in the Editor where you're developing, in my case Unity. So because of that there is a but that can make the game crash. I guess the origin is in a memmory leak. If that happens, just restarts the game and keep playing. The game will use the last reference to continue in the level you are.
+2º. Even I did my best to try to finish the game at time, there was not too much time for the VitaJam2019, and even I don't own a PSVita DevKit, so sometimes memory leaks are very difficult to identify when they only happens in PSVita and not in the Editor where you're developing, in my case Unity. So because of that there is a bug that can make the game crash. I guess the origin is in a memmory leak. If that happens, just restarts the game and keep playing. The game will use the last reference to continue in the level you are.
 
 ## Credits
 
