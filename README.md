@@ -30,6 +30,8 @@ And this is the layout if you decide to use Vita sticks and buttons.
 
 ![VitaControls](layout-completo.jpg)
 
+You can also playing combining controls. So touch for Aiming, and Zoom and Fire using Vita buttons. Choose the best one for you.
+
 ## Multilanguage Support
 
 Even the translations are provided by using Google Translator, I can say there around 12 languages supported. So I hope you can play even in russian and other languages.
